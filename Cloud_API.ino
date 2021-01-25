@@ -2,7 +2,7 @@
 #include <HTTPClient.h>
 
 const char* ssid = "Dolphin_Murarka";   //local network
-const char* password = "Shruti3236";     //enter password
+const char* password = "Shruti123";     //enter password
 
 const char* serverName = "https://api.thingspeak.com/update";
 String apiKey = "CHXB4ACQ14EWY9NG";     //write key
