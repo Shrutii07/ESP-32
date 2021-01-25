@@ -3,7 +3,7 @@ int touch_value = 100;
 void setup()
 {
 Serial.begin(115200);  //begin serial communication with BR 115200
-pinMode (4, INPUT);   //gpio pin 4 input
+pinMode (4, INPUT);    //gpio pin 4 input
 pinMode(2, OUTPUT);   //2 output inbuilt led
 digitalWrite (2, LOW);
 }
