@@ -8,7 +8,7 @@ This repository contains few Arduino codes for ESP32.
 ### Result
 <img src="https://github.com/Shrutii07/ESP-32/blob/main/Results/touch.png" height="200" width="220">
 
-### Hardware Demonstration(https://youtu.be/E25-WQ1cPpY)
+### [Hardware Demonstration](https://youtu.be/E25-WQ1cPpY)
 
 ## [LED Control using Bluetooth](https://github.com/Shrutii07/ESP-32/blob/main/Bluetooth.ino)
 
