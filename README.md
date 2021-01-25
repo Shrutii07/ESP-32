@@ -1,6 +1,7 @@
 # ESP-32
 
 This repository contains few Arduino codes for ESP32.
+<p><img src="https://github.com/Shrutii07/ESP-32/blob/main/Results/pinout.png" width="350" height="200"/> </p>
 
 ## LED Control Using inbuilt Touch-Sensor
 <a href="https://github.com/Shrutii07/ESP-32/blob/main/Touch_Test.ino">Code</a>
