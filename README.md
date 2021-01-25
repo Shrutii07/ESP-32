@@ -45,7 +45,7 @@ This repository contains few Arduino codes for ESP32.
 
 ### [Hardware Demonstration](https://youtu.be/iSaMCix5BN0)
 
-## [To connect Google sheets using If This Then That(IFTTT](https://github.com/Shrutii07/ESP-32/blob/main/IFTTT.ino)
+## [To connect Google sheets using If This Then That(IFTTT)](https://github.com/Shrutii07/ESP-32/blob/main/IFTTT.ino)
 
 ### Result
 <img src="https://github.com/Shrutii07/ESP-32/blob/main/Results/ifttt.png" height="350" width="500">    <img src="https://github.com/Shrutii07/ESP-32/blob/main/Results/ifttt1.png" height="250" width="300">
