@@ -1,7 +1,7 @@
 #include <WiFi.h>
 
-const char* ssid = "Shruti-ESP";
-const char* Password = "Shubh@123";
+const char* ssid = "Shruti-ESP";  //Enter name to be displayed
+const char* Password = "Shruti123";
 
 WiFiServer server(80);
 String html ="<!DOCTYPE html>\
