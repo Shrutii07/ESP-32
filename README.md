@@ -34,20 +34,20 @@ This repository contains few Arduino codes for ESP32.
 ## [Interfacing inbuilt Temperature sensor to ESP32](https://github.com/Shrutii07/ESP-32/blob/main/Temp_sensor.ino)
 
 ### Result
-<img src="https://github.com/Shrutii07/ESP-32/blob/main/Results/Temp.png" height="300" width="350">
+<img src="https://github.com/Shrutii07/ESP-32/blob/main/Results/Temp.png" height="400" width="250">
 
 ### [Hardware Demonstration](https://youtu.be/tRdmhpK-yWw)
 
 ## [To track data changes in the values of sensor like inbuilt touch sensor on an onine server(ThingSpeak)](https://github.com/Shrutii07/ESP-32/blob/main/Cloud_API.ino)
 
 ### Result
-<img src="https://github.com/Shrutii07/ESP-32/blob/main/Results/cloud.png" height="350" width="450">   <img src="https://github.com/Shrutii07/ESP-32/blob/main/Results/thingsspeak.png" height="300" width="400">
+<img src="https://github.com/Shrutii07/ESP-32/blob/main/Results/cloud.png" height="450" width="200">   <img src="https://github.com/Shrutii07/ESP-32/blob/main/Results/thingsspeak.png" height="300" width="400">
 
 ### [Hardware Demonstration](https://youtu.be/iSaMCix5BN0)
 
 ## [To connect Google sheets using If This Then That(IFTTT](https://github.com/Shrutii07/ESP-32/blob/main/IFTTT.ino)
 
 ### Result
-<img src="https://github.com/Shrutii07/ESP-32/blob/main/Results/ifttt.png" height="350" width="400">    <img src="https://github.com/Shrutii07/ESP-32/blob/main/Results/ifttt1.png" height="200" width="300">
+<img src="https://github.com/Shrutii07/ESP-32/blob/main/Results/ifttt.png" height="350" width="500">    <img src="https://github.com/Shrutii07/ESP-32/blob/main/Results/ifttt1.png" height="250" width="300">
 
 ### [Hardware Demonstration](https://youtu.be/ZCvqBBp6kYI)
